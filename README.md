@@ -10,7 +10,5 @@ In Design 1 (Joint-Redesign) file:
 
 In design 2 (Hinge-design) file, the purpose of it was to design a joint that can mimic the activities and shape of normal joint, hinge joint. Like in any hinges or door, this part helps keeping the object stationary. 
 
-In design 3 (All-design) file, the arm was designed using one block joints were added and controlled using record position. The purpose of this was to reduce number of components. 
-
 
 The following tutorial was followed for accuracy: https://www.youtube.com/watch?v=UhfmddOmUko&t=231s
