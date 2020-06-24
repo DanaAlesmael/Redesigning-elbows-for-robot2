@@ -4,8 +4,8 @@ In this task, a specific design (a picture of it can be found with the files her
 
 To keep the robot's simple design, only blocks without much edits were utilized. The main focus on this task was to make the joint moveable. Three different ddesignes were made 
 
-In Design 1 (Joint-Redesign) file: 
-* The arm and forearm part were designed using cube shape with medium size holes to reduce the part's weight. 
+In Design 1 (Joint-Redesign) file, the following were done to reduce the part's weight:
+* The arm and forearm part were designed using cube shape with medium size holes. 
 * The joint kept as spherical shape but with hole in the middle.
 
 In design 2 (Hinge-design) file, the purpose of it was to design a joint that can mimic the activities and shape of normal joint, hinge joint. Like in any hinges or door, this part helps keeping the object stationary. 
